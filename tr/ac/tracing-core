@@ -1,0 +1,1 @@
+{"name":"tracing-core","vers":"0.1.21","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1f4ed65637b8390770814083d20756f87bfa2c21bf2f110babdc5438351746e4","features":{"default":["std"],"std":["lazy_static"]},"yanked":false,"links":null}

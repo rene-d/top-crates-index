@@ -1,0 +1,1 @@
+{"name":"safe_arch","vers":"0.6.0","deps":[{"name":"bytemuck","req":"^1.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"794821e4ccb0d9f979512f9c1973480123f9bd62a90d74ab0f9426fcf8f4a529","features":{"default":[]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"miniz_oxide","vers":"0.3.7","deps":[{"name":"adler32","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"791daaae1ed6889560f8c4359194f56648355540573244a5448a83ba1ecc7435","features":{},"yanked":false,"links":null}

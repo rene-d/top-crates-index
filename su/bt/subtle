@@ -1,0 +1,1 @@
+{"name":"subtle","vers":"2.4.1","deps":[{"name":"rand","req":"^0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"6bdef32e8150c2a081110b42772ffe7d7c9032b606bc226c8260fd97e0976601","features":{"nightly":[],"default":["std","i128"],"std":[],"i128":[]},"yanked":false,"links":null}

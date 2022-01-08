@@ -1,0 +1,1 @@
+{"name":"scan_fmt","vers":"0.2.6","deps":[{"name":"regex","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0b53b0a5db882a8e2fdaae0a43f7b39e7e9082389e978398bdf223a55b581248","features":{"std":[],"default":["regex","std"]},"yanked":false,"links":null}

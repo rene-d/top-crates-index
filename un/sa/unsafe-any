@@ -1,0 +1,1 @@
+{"name":"unsafe-any","vers":"0.4.2","deps":[{"name":"traitobject","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f30360d7979f5e9c6e6cea48af192ea8fab4afb3cf72597154b8f08935bc9c7f","features":{},"yanked":false}

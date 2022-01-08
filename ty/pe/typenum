@@ -1,0 +1,1 @@
+{"name":"typenum","vers":"1.15.0","deps":[{"name":"scale-info","req":"^1.0","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"dcf81ac59edc17cc8697ff311e8f5ef2d99fcbd9817b34cec66f90b6c3dfd987","features":{"force_unix_path_separator":[],"i128":[],"no_std":[],"scale_info":["scale-info/derive"],"strict":[]},"yanked":false,"links":null}

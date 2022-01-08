@@ -1,0 +1,1 @@
+{"name":"typemap","vers":"0.3.3","deps":[{"name":"unsafe-any","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"653be63c80a3296da5551e1bfd2cca35227e13cdd08c6668903ae2f4f77aa1f6","features":{},"yanked":false}
