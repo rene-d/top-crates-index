@@ -1,0 +1,1 @@
+{"name":"cloudabi","vers":"0.1.0","deps":[{"name":"bitflags","req":"^1.2.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4344512281c643ae7638bbabc3af17a11307803ec8f0fcad9fae512a8bf36467","features":{"default":["bitflags"]},"yanked":false,"links":null}

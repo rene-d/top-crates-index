@@ -1,0 +1,1 @@
+{"name":"encoding-index-simpchinese","vers":"1.20141219.5","deps":[{"name":"encoding_index_tests","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d87a7194909b9118fc707194baa434a4e3b0fb6a5a757c73c3adb07aa25031f7","features":{},"yanked":false}

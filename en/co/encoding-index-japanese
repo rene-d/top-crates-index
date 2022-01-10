@@ -1,0 +1,1 @@
+{"name":"encoding-index-japanese","vers":"1.20141219.5","deps":[{"name":"encoding_index_tests","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"04e8b2ff42e9a05335dbf8b5c6f7567e5591d0d916ccef4e0b1710d32a0d0c91","features":{},"yanked":false}

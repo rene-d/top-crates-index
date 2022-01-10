@@ -1,0 +1,1 @@
+{"name":"crc","vers":"2.1.0","deps":[{"name":"crc-catalog","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"49fc9a695bca7f35f5f4c15cddc84415f66a74ea78eef08e90c5024f2b540e23","features":{},"yanked":false,"links":null}

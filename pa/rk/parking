@@ -1,0 +1,1 @@
+{"name":"parking","vers":"2.0.0","deps":[{"name":"easy-parallel","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"427c3892f9e783d91cc128285287e70a59e206ca452770ece88a76f7a3eddd72","features":{},"yanked":false,"links":null}

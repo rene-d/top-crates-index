@@ -1,0 +1,1 @@
+{"name":"qstring","vers":"0.7.2","deps":[{"name":"percent-encoding","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d464fae65fff2680baf48019211ce37aaec0c78e9264c84a3e484717f965104e","features":{},"yanked":false,"links":null}

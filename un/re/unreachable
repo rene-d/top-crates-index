@@ -1,0 +1,1 @@
+{"name":"unreachable","vers":"1.0.0","deps":[{"name":"void","req":"^1","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"382810877fe448991dfc7f0dd6e3ae5d58088fd0ea5e35189655f84e6814fa56","features":{},"yanked":false}

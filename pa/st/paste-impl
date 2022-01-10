@@ -1,0 +1,1 @@
+{"name":"paste-impl","vers":"0.1.18","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d95a7db200b97ef370c8e6de0088252f7e0dfff7d047a28528e47456c0fc98b6","features":{},"yanked":false,"links":null}

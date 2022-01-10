@@ -1,0 +1,1 @@
+{"name":"encoding-index-singlebyte","vers":"1.20141219.5","deps":[{"name":"encoding_index_tests","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3351d5acffb224af9ca265f435b859c7c01537c0849754d3db3fdf2bfe2ae84a","features":{},"yanked":false}

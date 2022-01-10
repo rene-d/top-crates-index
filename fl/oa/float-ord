@@ -1,0 +1,1 @@
+{"name":"float-ord","vers":"0.2.0","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7bad48618fdb549078c333a7a8528acb57af271d0433bdecd523eb620628364e","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"webpki-roots","vers":"0.21.1","deps":[{"name":"webpki","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aabe153544e473b775453675851ecc86863d2a81d786d741f6b76778f2a48940","features":{},"yanked":false,"links":null}

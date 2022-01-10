@@ -1,0 +1,1 @@
+{"name":"ieee754","vers":"0.2.6","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9007da9cacbd3e6343da136e98b0d2df013f553d35bdec8b518f07bea768e19c","features":{"unstable":[]},"yanked":false,"links":null}

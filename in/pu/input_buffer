@@ -1,0 +1,1 @@
+{"name":"input_buffer","vers":"0.5.0","deps":[{"name":"bytes","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"acee673b88a760f5d1f7b2677a90ab797878282ca36ebd0ed8d560361bee9810","features":{},"yanked":false,"links":null}

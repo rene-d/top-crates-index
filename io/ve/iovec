@@ -1,0 +1,1 @@
+{"name":"iovec","vers":"0.1.4","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":"cfg(unix)","kind":"normal"}],"cksum":"b2b3ea6ff95e175473f8ffe6a7eb7c00d054240321b84c57051175fe3c1e075e","features":{},"yanked":false,"links":null}

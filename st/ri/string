@@ -1,0 +1,1 @@
+{"name":"string","vers":"0.3.0","deps":[{"name":"bytes","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a984fb878618df5d8df7a476085310472dfd6eee03c5e4b35feb689066b1c1e6","features":{"default":["bytes"]},"yanked":false,"links":null}

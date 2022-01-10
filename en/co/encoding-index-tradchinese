@@ -1,0 +1,1 @@
+{"name":"encoding-index-tradchinese","vers":"1.20141219.5","deps":[{"name":"encoding_index_tests","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fd0e20d5688ce3cab59eb3ef3a2083a5c77bf496cb798dc6fcdb75f323890c18","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"crunchy","vers":"0.2.2","deps":[],"cksum":"7a81dae078cea95a014a339291cec439d2f232ebe854a9d672b796c6afafa9b7","features":{"limit_256":[],"limit_128":[],"limit_64":[],"limit_1024":[],"std":[],"limit_512":[],"limit_2048":[],"default":["limit_128"]},"yanked":false,"links":null}

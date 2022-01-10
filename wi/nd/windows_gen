@@ -1,0 +1,1 @@
+{"name":"windows_gen","vers":"0.9.1","deps":[{"name":"syn","req":"^1.0","features":["full"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"54154dbc515d58723f6b6053c12f1065da7389f733660581b2391bd1af480452","features":{},"yanked":false,"links":null}

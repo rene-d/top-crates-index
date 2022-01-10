@@ -1,0 +1,1 @@
+{"name":"askama_escape","vers":"0.10.2","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9a1bb320f97e6edf9f756bf015900038e43c7700e059688e5724a928c8f3b8d5","features":{},"yanked":false,"links":null}

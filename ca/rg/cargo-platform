@@ -1,0 +1,1 @@
+{"name":"cargo-platform","vers":"0.1.2","deps":[{"name":"serde","req":"^1.0.82","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cbdb825da8a5df079a43676dbe042702f1707b1109f713a01420fbb4cc71fa27","features":{},"yanked":false,"links":null}

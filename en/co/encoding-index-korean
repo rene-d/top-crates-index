@@ -1,0 +1,1 @@
+{"name":"encoding-index-korean","vers":"1.20141219.5","deps":[{"name":"encoding_index_tests","req":"^0.1.4","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4dc33fb8e6bcba213fe2f14275f0963fd16f0a02c878e3095ecfdf5bee529d81","features":{},"yanked":false}
