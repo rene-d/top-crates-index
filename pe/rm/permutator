@@ -1,1 +1,0 @@
-{"name":"permutator","vers":"0.4.0","deps":[{"name":"num","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa5132833890643cdaeb330ae7cf7da92e0e11c8729f6f529140666213876a0b","features":{"default":[]},"yanked":false,"links":null}
