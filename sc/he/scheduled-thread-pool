@@ -1,0 +1,1 @@
+{"name":"scheduled-thread-pool","vers":"0.2.5","deps":[{"name":"parking_lot","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dc6f74fd1204073fa02d5d5d68bec8021be4c38690b61264b2fdb48083d0e7d7","features":{},"yanked":false,"links":null}

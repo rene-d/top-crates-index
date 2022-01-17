@@ -1,0 +1,1 @@
+{"name":"opentelemetry-semantic-conventions","vers":"0.8.0","deps":[{"name":"opentelemetry","req":"^0.16","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ffeac823339e8b0f27b961f4385057bf9f97f2863bc745bd015fd6091f2270e9","features":{},"yanked":false,"links":null}

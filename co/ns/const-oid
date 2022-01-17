@@ -1,0 +1,1 @@
+{"name":"const-oid","vers":"0.7.1","deps":[{"name":"hex-literal","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e4c78c047431fee22c1a7bb92e00ad095a02a983affe4d8a72e2a2c62c1b94f3","features":{"std":[]},"yanked":false,"links":null}

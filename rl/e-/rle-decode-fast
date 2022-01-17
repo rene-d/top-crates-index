@@ -1,0 +1,1 @@
+{"name":"rle-decode-fast","vers":"1.0.1","deps":[{"name":"criterion","req":"^0.2","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cabe4fa914dec5870285fa7f71f602645da47c486e68486d2b4ceb4a343e90ac","features":{"bench":["criterion"]},"yanked":false,"links":null}

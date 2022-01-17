@@ -1,0 +1,1 @@
+{"name":"binascii","vers":"0.1.4","deps":[],"cksum":"383d29d513d8764dcdc42ea295d979eb99c3c9f00607b3692cf68a431f7dca72","features":{"decode":[],"default":["encode","decode"],"encode":[]},"yanked":false,"links":null}

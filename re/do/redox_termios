@@ -1,0 +1,1 @@
+{"name":"redox_termios","vers":"0.1.2","deps":[{"name":"redox_syscall","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8440d8acb4fd3d277125b4bd01a6f38aee8d814b3b5fc09b3f2b825d37d3fe8f","features":{},"yanked":false,"links":null}

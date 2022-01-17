@@ -1,0 +1,1 @@
+{"name":"farmhash","vers":"1.1.5","deps":[{"name":"fnv","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f35ce9c8fb9891c75ceadbc330752951a4e369b50af10775955aeb9af3eee34b","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"byte-slice-cast","vers":"1.2.0","deps":[],"cksum":"1d30c751592b77c499e7bce34d99d67c2c11bdc0574e9a488ddade14150a4698","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"platforms","vers":"2.0.0","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8d0eef3571242013a0d5dc84861c3ae4a652e56e12adf8bdc26ff5f8cb34c94","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

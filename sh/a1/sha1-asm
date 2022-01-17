@@ -1,0 +1,1 @@
+{"name":"sha1-asm","vers":"0.5.1","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"563d4f7100bc3fce234e5f37bbf63dc2752558964505ba6ac3f7204bdc59eaac","features":{},"yanked":false,"links":null}

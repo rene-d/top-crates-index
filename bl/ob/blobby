@@ -1,0 +1,1 @@
+{"name":"blobby","vers":"0.3.1","deps":[{"name":"hex","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"847495c209977a90e8aad588b959d0ca9f5dc228096d29a6bd3defd53f35eaec","features":{},"yanked":false,"links":null}

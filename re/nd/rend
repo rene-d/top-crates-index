@@ -1,0 +1,1 @@
+{"name":"rend","vers":"0.3.6","deps":[{"name":"bytecheck","req":"~0.6.7","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"79af64b4b6362ffba04eef3a4e10829718a4896dac19daa741851c86781edf95","features":{"std":["bytecheck/std"],"default":["std"],"validation":["bytecheck"]},"yanked":false,"links":null}

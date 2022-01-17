@@ -1,0 +1,1 @@
+{"name":"nasm-rs","vers":"0.2.3","deps":[{"name":"rayon","req":"^1.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f031925084b045b8ff1d7f9d035283a969c63c5849769e0b81ef0fe639370e72","features":{"parallel":["rayon"]},"yanked":false,"links":null}

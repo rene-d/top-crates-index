@@ -1,0 +1,1 @@
+{"name":"plugin","vers":"0.2.6","deps":[{"name":"typemap","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"void","req":"*","features":[""],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"1a6a0dc3910bc8db877ffed8e457763b317cf880df4ae19109b9f77d277cf6e0","features":{},"yanked":false}

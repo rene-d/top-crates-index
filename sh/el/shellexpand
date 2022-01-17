@@ -1,0 +1,1 @@
+{"name":"shellexpand","vers":"2.1.0","deps":[{"name":"dirs-next","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83bdb7831b2d85ddf4a7b148aa19d0587eddbe8671a436b7bd1182eaad0f2829","features":{},"yanked":false,"links":null}

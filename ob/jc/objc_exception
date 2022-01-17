@@ -1,0 +1,1 @@
+{"name":"objc_exception","vers":"0.1.2","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ad970fb455818ad6cba4c122ad012fae53ae8b4795f86378bce65e4f6bab2ca4","features":{},"yanked":false,"links":null}

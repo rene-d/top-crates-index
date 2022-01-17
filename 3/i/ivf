@@ -1,0 +1,1 @@
+{"name":"ivf","vers":"0.1.1","deps":[{"name":"bitstream-io","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0fb01c64361a3a67b511439f0dcd54fa3aa5581c861a17e2ede76e46b9c5b7e2","features":{},"yanked":false,"links":null}

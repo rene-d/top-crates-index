@@ -1,0 +1,1 @@
+{"name":"sync_wrapper","vers":"0.1.1","deps":[{"name":"pin-project-lite","req":"^0.2.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"20518fe4a4c9acf048008599e464deb21beeae3d3578418951a189c235a7a9a8","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"amd64_timer","vers":"1.3.0","deps":[{"name":"rustc_version","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"ce5e4ed94558ec2df60da8cc818f74a6079b10150e69b66e7585ca09549a8b51","features":{"std":[],"OLD_ASM":[],"default":[]},"yanked":false,"links":null}

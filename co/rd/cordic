@@ -1,0 +1,1 @@
+{"name":"cordic","vers":"0.1.5","deps":[{"name":"fixed","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0ed0a176c0b8c5c95fa0523177530364c5b68a8895d9745730dbfa692a7412d0","features":{},"yanked":false,"links":null}

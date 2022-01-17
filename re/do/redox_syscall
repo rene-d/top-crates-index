@@ -1,1 +1,1 @@
-{"name":"redox_syscall","vers":"0.2.8","deps":[{"name":"bitflags","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"742739e41cd49414de871ea5e549afb7e2a3ac77b589bcbebe8c82fab37147fc","features":{},"yanked":false,"links":null}
+{"name":"redox_syscall","vers":"0.2.10","deps":[{"name":"bitflags","req":"^1.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8383f39639269cde97d255a32bdb68c047337295414940c68bdd30c2e13203ff","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"virtue","vers":"0.0.4","deps":[{"name":"proc-macro2","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"f0e85ed1066abcc0ea331cce3ce83cccf30ae9900529ca46f353b22ca79b56b8","features":{},"yanked":false,"links":null}

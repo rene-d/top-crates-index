@@ -1,0 +1,1 @@
+{"name":"sha2-asm","vers":"0.6.2","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"bf27176fb5d15398e3a479c652c20459d9dac830dedd1fa55b42a77dbcdbfcea","features":{},"yanked":false,"links":null}

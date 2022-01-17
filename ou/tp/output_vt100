@@ -1,0 +1,1 @@
+{"name":"output_vt100","vers":"0.1.2","deps":[{"name":"winapi","req":"^0.3.6","features":["winuser","winbase","consoleapi","processenv"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"53cdc5b785b7a58c5aad8216b3dfa114df64b0b06ae6e1501cef91df2fbdf8f9","features":{},"yanked":false,"links":null}

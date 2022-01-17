@@ -1,0 +1,1 @@
+{"name":"ptr_meta","vers":"0.1.4","deps":[{"name":"ptr_meta_derive","req":"=0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0738ccf7ea06b608c10564b31debd4f5bc5e197fc8bfe088f68ae5ce81e7a4f1","features":{"std":[],"default":["std"]},"yanked":false,"links":null}

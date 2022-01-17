@@ -1,1 +1,1 @@
-{"name":"stable_deref_trait","vers":"1.1.0","deps":[],"cksum":"ffbc596e092fe5f598b12ef46cc03754085ac2f4d8c739ad61c4ae266cc3b3fa","features":{"default":["std"],"alloc":[],"std":[]},"yanked":false,"links":null}
+{"name":"stable_deref_trait","vers":"1.2.0","deps":[],"cksum":"a8f112729512f8e442d81f95a8a7ddf2b7c6b8a1a6f509a95864142b30cab2d3","features":{"alloc":[],"std":["alloc"],"default":["std"]},"yanked":false,"links":null}

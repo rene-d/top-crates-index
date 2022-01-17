@@ -1,1 +1,1 @@
-{"name":"webpki-roots","vers":"0.21.1","deps":[{"name":"webpki","req":"^0.21.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aabe153544e473b775453675851ecc86863d2a81d786d741f6b76778f2a48940","features":{},"yanked":false,"links":null}
+{"name":"webpki-roots","vers":"0.22.2","deps":[{"name":"webpki","req":"^0.22.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"552ceb903e957524388c4d3475725ff2c8b7960922063af6ce53c9a43da07449","features":{},"yanked":false,"links":null}

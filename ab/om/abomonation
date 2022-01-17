@@ -1,0 +1,1 @@
+{"name":"abomonation","vers":"0.7.3","deps":[{"name":"recycler","req":"^0.1.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"56e72913c99b1f927aa7bd59a41518fdd9995f63ffc8760f211609e0241c4fb2","features":{},"yanked":false,"links":null}

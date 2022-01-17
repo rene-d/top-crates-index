@@ -1,0 +1,1 @@
+{"name":"easycurses","vers":"0.13.0","deps":[{"name":"pancurses","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"232badcdbf5ca1f4fcb650b16617d9a9f2f41d87590035d017d46485eec4b503","features":{},"yanked":false,"links":null}

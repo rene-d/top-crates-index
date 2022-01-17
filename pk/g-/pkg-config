@@ -1,1 +1,1 @@
-{"name":"pkg-config","vers":"0.3.9","deps":[{"name":"lazy_static","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3a8b4c6b8165cd1a1cd4b9b120978131389f64bdaf456435caa41e630edba903","features":{},"yanked":false}
+{"name":"pkg-config","vers":"0.3.24","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"58893f751c9b0412871a09abd62ecd2a00298c6c83befa223ef98c52aef40cbe","features":{},"yanked":false,"links":null}

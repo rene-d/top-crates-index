@@ -1,0 +1,1 @@
+{"name":"zeromq-src","vers":"0.1.10+4.3.2","deps":[{"name":"cmake","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"df9133d366817fcffe22e4356043ba187ae122ec5db63d7ce73d1e6a18efa2f1","features":{},"yanked":false,"links":null}

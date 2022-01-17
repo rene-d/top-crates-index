@@ -1,0 +1,1 @@
+{"name":"fallible_collections","vers":"0.4.4","deps":[{"name":"hashbrown","req":"^0.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"52db5973b6a19247baf19b30f41c23a1bfffc2e9ce0a5db2f60e3cd5dc8895f7","features":{"unstable":[],"std":[],"rust_1_57":[],"std_io":["std"]},"yanked":false,"links":null}

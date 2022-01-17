@@ -1,0 +1,1 @@
+{"name":"openssl-src","vers":"111.17.0+1.1.1m","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"05d6a336abd10814198f66e2a91ccd7336611f30334119ca8ce300536666fcf4","features":{"weak-crypto":[],"camellia":[],"idea":[],"default":[],"seed":[]},"yanked":false,"links":null}

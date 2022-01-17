@@ -1,0 +1,1 @@
+{"name":"gzip-header","vers":"1.0.0","deps":[{"name":"crc32fast","req":"^1.2.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95cc527b92e6029a62960ad99aa8a6660faa4555fe5f731aab13aa6a921795a2","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"darwin-libproc-sys","vers":"0.2.0","deps":[{"name":"libc","req":"~0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef0aa083b94c54aa4cfd9bbfd37856714c139d1dc511af80270558c7ba3b4816","features":{},"yanked":false,"links":"proc"}

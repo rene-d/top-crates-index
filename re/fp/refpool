@@ -1,0 +1,1 @@
+{"name":"refpool","vers":"0.4.3","deps":[{"name":"criterion","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"369e86b80fa7dc8c561dd9613a5bf25c59d2d3073cd66c47fd9e39802f0ecb58","features":{"default":[],"default_impl":[]},"yanked":false,"links":null}

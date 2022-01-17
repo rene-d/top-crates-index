@@ -1,0 +1,1 @@
+{"name":"dav1d","vers":"0.6.1","deps":[{"name":"dav1d-sys","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7284148338177cb1cd0d0cdd7bf26440f8326999063eed294aa7d77b46a7e263","features":{},"yanked":false,"links":null}
