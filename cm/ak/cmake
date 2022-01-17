@@ -1,1 +1,1 @@
-{"name":"cmake","vers":"0.1.48","deps":[{"name":"cc","req":"^1.0.72","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e8ad8cef104ac57b68b89df3208164d228503abbdce70f6880ffa3d970e7443a","features":{},"yanked":false,"links":null}
+{"name":"cmake","vers":"0.1.44","deps":[{"name":"cc","req":"^1.0.41","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0e56268c17a6248366d66d4a47a3381369d068cce8409bb1716ed77ea32163bb","features":{},"yanked":false,"links":null}
