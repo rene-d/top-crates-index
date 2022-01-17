@@ -1,0 +1,1 @@
+{"name":"getrandom_package","vers":"0.1.20","deps":[],"cksum":"45510b03235e6cc51fa1744340970d7b14c10bce9036d79031acf20ecb5f8c8f","features":{"wasm-bindgen":[],"stdweb":[]},"yanked":false,"links":null}

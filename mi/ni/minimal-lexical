@@ -1,1 +1,1 @@
-{"name":"minimal-lexical","vers":"0.2.1","deps":[],"cksum":"68354c5c6bd36d73ff3feceb05efa59b6acb7626617f4962be322a825e61f79a","features":{"lint":[],"compact":[],"default":["std"],"nightly":[],"std":[],"alloc":[]},"yanked":false,"links":null}
+{"name":"minimal-lexical","vers":"0.2.0","deps":[],"cksum":"4e80d6719ad8ce5647db5cb8cd162588ee448cbae498eca06a28e6c95e604e00","features":{"std":[],"default":["std"],"nightly":[],"alloc":[],"compact":[],"lint":[]},"yanked":false,"links":null}

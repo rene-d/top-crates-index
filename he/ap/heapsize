@@ -1,0 +1,1 @@
+{"name":"heapsize","vers":"0.4.2","deps":[{"name":"winapi","req":"^0.3.4","features":["std","heapapi"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"1679e6ea370dee694f91f1dc469bf94cf8f52051d147aec3e1f9497c6fc22461","features":{"unstable":[],"flexible-tests":[]},"yanked":false}

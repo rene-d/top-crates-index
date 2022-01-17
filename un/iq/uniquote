@@ -1,0 +1,1 @@
+{"name":"uniquote","vers":"3.0.0","deps":[],"cksum":"c4182f041ca904c8c2a9b76d9733b9f67d8ec92ed549c4342e52b7bfe6c01c3f","features":{"default":["std"],"std":["alloc"],"alloc":[]},"yanked":false,"links":null}

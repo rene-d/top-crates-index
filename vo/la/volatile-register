@@ -1,0 +1,1 @@
+{"name":"volatile-register","vers":"0.2.0","deps":[{"name":"vcell","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d67cb4616d99b940db1d6bd28844ff97108b498a6ca850e5b6191a532063286","features":{},"yanked":false}

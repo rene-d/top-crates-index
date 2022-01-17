@@ -1,0 +1,1 @@
+{"name":"cloudflare-zlib-sys","vers":"0.3.0","deps":[{"name":"cc","req":"^1.0.67","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"2040b6d1edfee6d75f172d81e2d2a7807534f3f294ce18184c70e7bb0105cd6f","features":{"default":["asm"],"asm":[]},"yanked":false,"links":null}

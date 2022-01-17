@@ -1,0 +1,1 @@
+{"name":"arbitrary","vers":"1.0.3","deps":[{"name":"derive_arbitrary","req":"^1.0.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"510c76ecefdceada737ea728f4f9a84bd2e1ef29f1ba555e560940fe279954de","features":{"derive":["derive_arbitrary"]},"yanked":false,"links":null}

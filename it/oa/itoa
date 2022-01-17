@@ -1,1 +1,1 @@
-{"name":"itoa","vers":"0.4.8","deps":[],"cksum":"b71991ff56294aa922b450139ee08b3bfc70982c6b2c7562771375cf73542dd4","features":{"std":[],"i128":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"itoa","vers":"0.4.3","deps":[],"cksum":"1306f3464951f30e30d12373d31c79fbd52d236e5e896fd92f96ec7babbbe60b","features":{"std":[],"default":["std"],"i128":[]},"yanked":false,"links":null}

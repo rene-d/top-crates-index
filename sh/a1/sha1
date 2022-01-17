@@ -1,0 +1,1 @@
+{"name":"sha1","vers":"0.6.1","deps":[{"name":"sha1_smol","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c1da05c97445caa12d05e848c4a4fcbbea29e748ac28f7e80e9b010392063770","features":{"std":["sha1_smol/std"],"serde":["sha1_smol/serde"]},"yanked":false,"links":null}
