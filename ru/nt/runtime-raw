@@ -1,0 +1,1 @@
+{"name":"runtime-raw","vers":"0.3.0-alpha.4","deps":[{"name":"futures-preview","req":"^0.3.0-alpha.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7551354d1bc6a66c1d671000ea14dd360d23367ff803bd37bf91938c9a91fa0f","features":{},"yanked":false,"links":null}

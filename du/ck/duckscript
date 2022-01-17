@@ -1,0 +1,1 @@
+{"name":"duckscript","vers":"0.7.1","deps":[{"name":"fsio","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"901210b17a58e5a957e7577e28763e445c67cfd2d195267376802a12ed854769","features":{},"yanked":false,"links":null}

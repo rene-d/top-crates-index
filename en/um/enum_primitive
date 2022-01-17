@@ -1,0 +1,1 @@
+{"name":"enum_primitive","vers":"0.1.1","deps":[{"name":"num-traits","req":"^0.1.32","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"be4551092f4d519593039259a9ed8daedf0da12e5109c5280338073eaeb81180","features":{},"yanked":false}

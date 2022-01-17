@@ -1,0 +1,1 @@
+{"name":"easy-cast","vers":"0.4.4","deps":[{"name":"libm","req":"^0.2.1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4bd102ee8c418348759919b83b81cdbdc933ffe29740b903df448b4bafaa348e","features":{"assert_float":[],"std":[],"default":["std"],"assert_int":[],"always_assert":["assert_float","assert_int"]},"yanked":false,"links":null}

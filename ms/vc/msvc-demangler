@@ -1,0 +1,1 @@
+{"name":"msvc-demangler","vers":"0.9.0","deps":[{"name":"bitflags","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bfb67c6dd0fa9b00619c41c5700b6f92d5f418be49b45ddb9970fbd4569df3c8","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"blas-sys","vers":"0.7.1","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"13b1b279ceb25d7c4faaea95a5f7addbe7d8c34f9462044bd8e630cebcfc2440","features":{},"yanked":false}

@@ -1,1 +1,2 @@
+{"name":"find_cuda_helper","vers":"0.1.2","deps":[{"name":"glob","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6554173421557d6d02db47373e0b5840b3f3718fa7b1f8a05d7501981011b2cf","features":{},"yanked":false,"links":null}
 {"name":"find_cuda_helper","vers":"0.2.0","deps":[{"name":"glob","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f9f9e65c593dd01ac77daad909ea4ad17f0d6d1776193fc8ea766356177abdad","features":{},"yanked":false,"links":null}

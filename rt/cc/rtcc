@@ -1,0 +1,1 @@
+{"name":"rtcc","vers":"0.2.1","deps":[{"name":"chrono","req":"^0.4.19","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"ef35f9dcbf434a34dcc99b3ebba1c1945d49c70832958e932e83dc63a5273994","features":{},"yanked":false,"links":null}

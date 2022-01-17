@@ -1,0 +1,1 @@
+{"name":"gleam","vers":"0.6.20","deps":[{"name":"gl_generator","req":"^0.13","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"cff47839a0d7f6d28bfc18d772e90fae38bcbbbeb6fa713c2716fbaa8cb14455","features":{},"yanked":true,"links":null}

@@ -1,0 +1,1 @@
+{"name":"option-operations","vers":"0.4.0","deps":[{"name":"paste","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"95d6113415f41b268f1195907427519769e40ee6f28cbb053795098a2c16f447","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

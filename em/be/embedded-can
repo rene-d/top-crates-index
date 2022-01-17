@@ -1,0 +1,1 @@
+{"name":"embedded-can","vers":"0.3.0","deps":[{"name":"nb","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12719661dce6080d174aa0a9df1f61756022dc105c1761bcd37091a0ee5de635","features":{},"yanked":false,"links":null}

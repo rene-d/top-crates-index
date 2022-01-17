@@ -1,0 +1,1 @@
+{"name":"canonical-path","vers":"2.0.2","deps":[{"name":"tempfile","req":"^3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"e6e9e01327e6c86e92ec72b1c798d4a94810f147209bbe3ffab6a86954937a6f","features":{},"yanked":false,"links":null}

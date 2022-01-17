@@ -1,0 +1,1 @@
+{"name":"path-slash","vers":"0.1.4","deps":[{"name":"lazy_static","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3cacbb3c4ff353b534a67fb8d7524d00229da4cb1dc8c79f4db96e375ab5b619","features":{},"yanked":false,"links":null}

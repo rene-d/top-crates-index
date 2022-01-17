@@ -1,1 +1,10 @@
+{"name":"wasm-bindgen-shared","vers":"0.2.42","deps":[],"cksum":"326c32126e1a157b6ced7400061a84ac5b11182b2cda6edad7314eb3ae9ac9fe","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.47","deps":[],"cksum":"15de16ddb30cfd424a87598b30021491bae1607d32e52056979865c98b7913b4","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.48","deps":[],"cksum":"d9c2d4d4756b2e46d3a5422e06277d02e4d3e1d62d138b76a4c681e925743623","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.51","deps":[],"cksum":"83d61fe986a7af038dd8b5ec660e5849cbd9f38e7492b9404cc48b2b4df731d1","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.54","deps":[],"cksum":"8ae7167f0bbffd7fac2b12da0fa1f834c1d84671a1ae3c93ac8bde2e97179c39","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.60","deps":[],"cksum":"daf76fe7d25ac79748a37538b7daeed1c7a6867c92d3245c12c6222e4a20d639","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.62","deps":[],"cksum":"a91c2916119c17a8e316507afaaa2dd94b47646048014bbdf6bef098c1bb58ad","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.68","deps":[],"cksum":"1d649a3145108d7d3fbcde896a468d1bd636791823c9921135218ad89be08307","features":{},"yanked":false,"links":"wasm_bindgen"}
+{"name":"wasm-bindgen-shared","vers":"0.2.74","deps":[],"cksum":"d7cff876b8f18eed75a66cf49b65e7f967cb354a7aa16003fb55dbfd25b44b4f","features":{},"yanked":false,"links":"wasm_bindgen"}
 {"name":"wasm-bindgen-shared","vers":"0.2.78","deps":[],"cksum":"0237232789cf037d5480773fe568aac745bfe2afbc11a863e97901780a6b47cc","features":{},"yanked":false,"links":"wasm_bindgen"}

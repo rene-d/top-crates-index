@@ -1,0 +1,1 @@
+{"name":"raw-window-handle","vers":"0.4.2","deps":[{"name":"cty","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fba75eee94a9d5273a68c9e1e105d9cffe1ef700532325788389e5a83e2522b7","features":{"alloc":[]},"yanked":false,"links":null}

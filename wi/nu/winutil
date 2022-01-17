@@ -1,0 +1,1 @@
+{"name":"winutil","vers":"0.1.1","deps":[{"name":"winapi","req":"^0.3","features":["wow64apiset","processthreadsapi","winbase"],"optional":false,"default_features":true,"target":"cfg(windows)","kind":"normal"}],"cksum":"7daf138b6b14196e3830a588acf1e86966c694d3e8fb026fb105b8b5dca07e6e","features":{},"yanked":false}

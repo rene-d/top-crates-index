@@ -1,0 +1,1 @@
+{"name":"float_next_after","vers":"0.1.5","deps":[{"name":"num-traits","req":"^0.2.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4fc612c5837986b7104a87a0df74a5460931f1c5274be12f8d0f40aa2f30d632","features":{},"yanked":false,"links":null}

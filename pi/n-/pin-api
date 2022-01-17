@@ -1,0 +1,1 @@
+{"name":"pin-api","vers":"0.2.1","deps":[],"cksum":"4806efe6dbda279bde1fe6e07de93e0a022487f290b5dee3e465793e1c34f7ad","features":{"default":["std","nightly"],"std":[],"nightly":[]},"yanked":false,"links":null}

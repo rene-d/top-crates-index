@@ -1,1 +1,2 @@
+{"name":"encoding_rs_io","vers":"0.1.6","deps":[{"name":"encoding_rs","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9619ee7a2bf4e777e020b95c1439abaf008f8ea8041b78a0552c4f1bcf4df32c","features":{},"yanked":false,"links":null}
 {"name":"encoding_rs_io","vers":"0.1.7","deps":[{"name":"encoding_rs","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cc3c5651fb62ab8aa3103998dade57efdd028544bd300516baa31840c252a83","features":{},"yanked":false,"links":null}

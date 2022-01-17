@@ -1,1 +1,5 @@
+{"name":"slab","vers":"0.3.0","deps":[],"cksum":"17b4fcaed89ab08ef143da37bc52adbcc04d4a69014f4c1208d6b51f0c47bc23","features":{},"yanked":false}
+{"name":"slab","vers":"0.4.0","deps":[],"cksum":"fdeff4cd9ecff59ec7e3744cbca73dfe5ac35c2aedb2cfba8a1c715a18912e9d","features":{},"yanked":false}
+{"name":"slab","vers":"0.4.1","deps":[],"cksum":"5f9776d6b986f77b35c6cf846c11ad986ff128fe0b2b63a3628e3755e8d3102d","features":{},"yanked":false,"links":null}
+{"name":"slab","vers":"0.4.2","deps":[],"cksum":"c111b5bd5695e56cffe5129854aa230b39c93a305372fdbb2668ca2394eea9f8","features":{},"yanked":false,"links":null}
 {"name":"slab","vers":"0.4.5","deps":[{"name":"serde","req":"^1.0.95","features":["alloc"],"optional":true,"default_features":false,"target":null,"kind":"normal"},{"name":"serde","req":"^1","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"dev"},{"name":"serde_test","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"9def91fd1e018fe007022791f865d0ccc9b3a0d5001e01aabb8b40e46000afb5","features":{"std":[],"default":["std"]},"yanked":false,"links":null}

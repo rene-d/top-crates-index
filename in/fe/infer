@@ -1,1 +1,2 @@
-{"name":"infer","vers":"0.6.0","deps":[{"name":"cfb","req":"^0.4.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3fe51fa1be60e2a136243674bf4b938279ebddc7019dd5671211e375145759e9","features":{"std":["alloc","cfb"],"alloc":[],"default":["std"]},"yanked":false,"links":null}
+{"name":"infer","vers":"0.1.2","deps":[{"name":"byteorder","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f5fa94e6c85ff7e7df21d687ac12ea7b8d172f3ffe75b0b7692146b8ac902cb7","features":{},"yanked":false,"links":null}
+{"name":"infer","vers":"0.2.3","deps":[],"cksum":"64e9829a50b42bb782c1df523f78d332fe371b10c661e78b7a3c34b0198e9fac","features":{},"yanked":false,"links":null}

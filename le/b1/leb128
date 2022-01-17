@@ -1,0 +1,1 @@
+{"name":"leb128","vers":"0.2.4","deps":[{"name":"quickcheck","req":"^0.8.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3576a87f2ba00f6f106fdfcd16db1d698d648a26ad8e0573cad8537c3c362d2a","features":{"nightly":[]},"yanked":false,"links":null}

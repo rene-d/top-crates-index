@@ -1,0 +1,1 @@
+{"name":"paris","vers":"1.5.9","deps":[{"name":"chrono","req":"^0.4","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"069d856147763791e7d181d9901d3ccd5faec20f57599d8e9054d5b303f10d45","features":{"timestamps":["chrono"],"macros":[],"no_logger":[]},"yanked":false,"links":null}

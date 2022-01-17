@@ -1,0 +1,1 @@
+{"name":"inflate","vers":"0.4.2","deps":[{"name":"adler32","req":"^1.0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4ec18d981200fd14e65ee8e35fb60ed1ce55227a02407303f3a72517c6146dcc","features":{"default":[],"unstable":[]},"yanked":false,"links":null}

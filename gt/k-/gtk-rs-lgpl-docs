@@ -1,0 +1,1 @@
+{"name":"gtk-rs-lgpl-docs","vers":"0.1.8","deps":[{"name":"rustdoc-stripper","req":"^0.1.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e9c24dcfa40ae1165b4eca11517f2b7313196c94a0a609f23eb2e60f8f9b1dbe","features":{},"yanked":false,"links":null}

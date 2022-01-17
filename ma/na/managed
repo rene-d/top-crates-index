@@ -1,0 +1,1 @@
+{"name":"managed","vers":"0.8.0","deps":[],"cksum":"0ca88d725a0a943b096803bd34e73a4437208b6077654cc4ecb2947a5f91618d","features":{"alloc":[],"map":[],"default":["std"],"std":[]},"yanked":false,"links":null}

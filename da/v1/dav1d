@@ -1,1 +1,1 @@
-{"name":"dav1d","vers":"0.6.1","deps":[{"name":"dav1d-sys","req":"^0.3.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7284148338177cb1cd0d0cdd7bf26440f8326999063eed294aa7d77b46a7e263","features":{},"yanked":false,"links":null}
+{"name":"dav1d","vers":"0.6.0","deps":[{"name":"dav1d-sys","req":"^0.3.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1432c13a4b03c5573d5f40b1d64e58fddbdd5a14911dc6bb78373b9c54c8c65e","features":{},"yanked":false,"links":null}

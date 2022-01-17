@@ -1,0 +1,1 @@
+{"name":"iso8601","vers":"0.3.0","deps":[{"name":"nom","req":"^4.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"43e86914a73535f3f541a765adea0a9fafcf53fa6adb73662c4988fd9233766f","features":{"default":[]},"yanked":false,"links":null}

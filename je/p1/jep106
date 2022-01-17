@@ -1,0 +1,1 @@
+{"name":"jep106","vers":"0.2.6","deps":[{"name":"serde","req":"^1.0.101","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e80f965a2a659a7a4d9cdb9821a869d6e33c10f3e094e8f7d01648063c425953","features":{},"yanked":false,"links":null}

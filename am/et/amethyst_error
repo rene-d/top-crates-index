@@ -1,0 +1,1 @@
+{"name":"amethyst_error","vers":"0.15.3","deps":[{"name":"backtrace","req":"^0.3.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5bc703640201c6e9f36938a380801d6904af92f2ab472bde4fd920ec8b6faeb8","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"cvss","vers":"1.0.2","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"829862dabeab142ae0efd558d42d8fd874659268ccd810809ac6f1ee6bfcbd3f","features":{"default":["v3"],"v3":[]},"yanked":false,"links":null}

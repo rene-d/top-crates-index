@@ -1,0 +1,1 @@
+{"name":"ethnum","vers":"1.0.4","deps":[{"name":"ethnum-intrinsics","req":"^1","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f58da196a1fc8f14cb51f373f504efc66c434c577b777c2cd30d6fad16e4822","features":{"llvm-intrinsics":["ethnum-intrinsics"]},"yanked":false,"links":null}

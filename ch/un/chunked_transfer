@@ -1,1 +1,1 @@
-{"name":"chunked_transfer","vers":"1.4.0","deps":[{"name":"criterion","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"fff857943da45f546682664a79488be82e69e43c1a7a2307679ab9afb3a66d2e","features":{},"yanked":false,"links":null}
+{"name":"chunked_transfer","vers":"1.2.0","deps":[],"cksum":"1d29eb15132782371f71da8f947dba48b3717bdb6fa771b9b434d645e40a7193","features":{},"yanked":false,"links":null}

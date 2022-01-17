@@ -1,0 +1,1 @@
+{"name":"debug_unreachable","vers":"0.1.1","deps":[{"name":"unreachable","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9a032eac705ca39214d169f83e3d3da290af06d8d1d344d1baad2fd002dca4b3","features":{},"yanked":false}

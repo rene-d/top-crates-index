@@ -1,0 +1,1 @@
+{"name":"accelerate-src","vers":"0.3.2","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"415ed64958754dbe991900f3940677e6a7eefb4d7367afd70d642677b0c7d19d","features":{},"yanked":false,"links":"Accelerate.framework"}

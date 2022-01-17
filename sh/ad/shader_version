@@ -1,0 +1,1 @@
+{"name":"shader_version","vers":"0.6.0","deps":[{"name":"piston-graphics_api_version","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"478e783fb7533629e19120ca01246884f8effff5f4d20ce81d34c7c47a2866fa","features":{},"yanked":false,"links":null}

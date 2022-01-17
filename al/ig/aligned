@@ -1,0 +1,1 @@
+{"name":"aligned","vers":"0.4.0","deps":[{"name":"as-slice","req":"^0.2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c2240c1c4e8d56ed2ba3c79e241c32fb5ae6bd73e23f70ef90f0650f3d45d0d5","features":{},"yanked":false,"links":null}

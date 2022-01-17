@@ -1,1 +1,1 @@
-{"name":"pure-rust-locales","vers":"0.5.6","deps":[],"cksum":"b45c49fc4f91f35bae654f85ebb3a44d60ac64f11b3166ffa609def390c732d8","features":{},"yanked":false,"links":null}
+{"name":"pure-rust-locales","vers":"0.5.2","deps":[{"name":"itertools","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"nom","req":"^5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"4d57d34f9e47a6946cacf1cf5eb16c596199d5feaa0e8846527fb04e48c41e6e","features":{},"yanked":false,"links":null}

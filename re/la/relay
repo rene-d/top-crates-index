@@ -1,0 +1,1 @@
+{"name":"relay","vers":"0.1.1","deps":[{"name":"futures","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1576e382688d7e9deecea24417e350d3062d97e32e45d70b1cde65994ff1489a","features":{},"yanked":false}

@@ -1,1 +1,1 @@
-{"name":"malloc_buf","vers":"1.0.0","deps":[{"name":"libc","req":">= 0.1, < 0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f32c8c0575eee8637bf462087c00098fe16d6cb621f1abb6ebab4da414d57fd","features":{},"yanked":false}
+{"name":"malloc_buf","vers":"0.0.6","deps":[{"name":"libc","req":">= 0.1, < 0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"62bb907fe88d54d8d9ce32a3cceab4218ed2f6b7d35617cafe9adf84e43919cb","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"gfx_gl","vers":"0.6.1","deps":[{"name":"gl_generator","req":"^0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"f2d38164670920cfb7491bc0cf6f49f0554bd1c44cdbedc6c78d2bf91691ff5e","features":{},"yanked":false,"links":null}

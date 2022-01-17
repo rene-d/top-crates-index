@@ -1,0 +1,1 @@
+{"name":"vecmath","vers":"1.0.0","deps":[{"name":"piston-float","req":"^1.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"956ae1e0d85bca567dee1dcf87fb1ca2e792792f66f87dced8381f99cd91156a","features":{},"yanked":false,"links":null}

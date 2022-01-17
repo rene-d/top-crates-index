@@ -1,0 +1,1 @@
+{"name":"osmesa-sys","vers":"0.1.2","deps":[{"name":"shared_library","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88cfece6e95d2e717e0872a7f53a8684712ad13822a7979bc760b9c77ec0013b","features":{},"yanked":false}

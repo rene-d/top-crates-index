@@ -1,0 +1,1 @@
+{"name":"lapacke-sys","vers":"0.1.4","deps":[{"name":"libc","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2f7d0817c6f4a6029f3b153de01d6498dcf9df659a7536c58bd8df5cd3ccaa6e","features":{},"yanked":false}

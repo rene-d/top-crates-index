@@ -1,0 +1,1 @@
+{"name":"dir-diff","vers":"0.3.2","deps":[{"name":"walkdir","req":"^2.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2860407d7d7e2e004bb2128510ad9e8d669e76fa005ccf567977b5d71b8b4a0b","features":{},"yanked":false,"links":null}

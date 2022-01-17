@@ -1,0 +1,1 @@
+{"name":"smart-leds-trait","vers":"0.2.1","deps":[{"name":"rgb","req":"^0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ebf6d833fa93f16a1c1874e62c2aebe8567e5bdd436d59bf543ed258b6f7a8e3","features":{},"yanked":false,"links":null}

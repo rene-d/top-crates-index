@@ -1,1 +1,4 @@
+{"name":"unicode-normalization","vers":"0.1.2","deps":[],"cksum":"26643a2f83bac55f1976fb716c10234485f9202dcd65cfbdf9da49867b271172","features":{},"yanked":false}
+{"name":"unicode-normalization","vers":"0.1.5","deps":[],"cksum":"51ccda9ef9efa3f7ef5d91e8f9b83bbe6955f9bf86aec89d5cce2c874625920f","features":{},"yanked":false}
+{"name":"unicode-normalization","vers":"0.1.17","deps":[{"name":"tinyvec","req":"^1","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"07fbfce1c8a97d547e8b5334978438d9d6ec8c20e38f56d4a4374d181493eaef","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"unicode-normalization","vers":"0.1.19","deps":[{"name":"tinyvec","req":"^1","features":["alloc"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d54590932941a9e9266f0832deed84ebe1bf2e4c9e4a3554d393d18f5e854bf9","features":{"std":[],"default":["std"]},"yanked":false,"links":null}
