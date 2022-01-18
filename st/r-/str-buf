@@ -1,1 +1,0 @@
-{"name":"str-buf","vers":"2.0.4","deps":[{"name":"serde","req":"^1","features":[],"optional":true,"default_features":false,"target":null,"kind":"normal"}],"cksum":"5d3f6746ae4fb2c851c6ad2fdaa1090f6777315bc7522b2a2bc5897e091eefb2","features":{},"yanked":false,"links":null}

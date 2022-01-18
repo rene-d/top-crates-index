@@ -1,1 +1,0 @@
-{"name":"minimad","vers":"0.8.0","deps":[{"name":"once_cell","req":"^1.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8957f240ecb82a4e699bcf4db189fe8a7f5aa68b9e6d5abf829c62a9ee4630ed","features":{"default":["escaping"],"escaping":[]},"yanked":false,"links":null}

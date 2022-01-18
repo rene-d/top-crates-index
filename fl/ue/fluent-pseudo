@@ -1,1 +1,0 @@
-{"name":"fluent-pseudo","vers":"0.3.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"fded62f95114baa010b4fcd54aedc7b0762059cf6dfb0097f5b5c95fb56ed42f","features":{},"yanked":false,"links":null}
