@@ -1,0 +1,1 @@
+{"name":"ringbuf","vers":"0.2.6","deps":[{"name":"cache-padded","req":"^1.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c60f3923939c33e6c543ddbff14d0ee6a407fcd186d560be37282559616adf3","features":{"benchmark":[],"default":["std"],"std":[]},"yanked":false,"links":null}

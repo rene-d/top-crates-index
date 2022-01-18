@@ -1,2 +1,4 @@
 {"name":"time-macros","vers":"0.1.1","deps":[{"name":"proc-macro-hack","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"time-macros-impl","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"957e9c6e26f12cb6d0dd7fc776bb67a706312e7299aed74c8dd5b17ebb27e2f1","features":{},"yanked":false,"links":null}
+{"name":"time-macros","vers":"0.2.0-alpha.1","deps":[],"cksum":"36234b149f749cc36d38c30f77426ba421f63aada9ac919a2853da2a0fc9f465","features":{"large-dates":[]},"yanked":false,"links":null}
+{"name":"time-macros","vers":"0.2.0","deps":[],"cksum":"10758c2d95454f52ffd0173cd4a0dce8d6b118b9aac27c5a4b785ddf9a499c72","features":{"large-dates":[]},"yanked":false,"links":null}
 {"name":"time-macros","vers":"0.2.3","deps":[],"cksum":"25eb0ca3468fc0acc11828786797f6ef9aa1555e4a211a60d64cc8e4d1be47d6","features":{"large-dates":[]},"yanked":false,"links":null}

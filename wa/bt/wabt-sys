@@ -1,0 +1,1 @@
+{"name":"wabt-sys","vers":"0.1.4","deps":[{"name":"cc","req":"^1.0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"},{"name":"cmake","req":"^0.1.25","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"fc67b1d96cd7839be6996edf94be66351d83f614e9cc7c6edc33accd9f5e6529","features":{},"yanked":false}

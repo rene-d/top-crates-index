@@ -1,0 +1,2 @@
+{"name":"wyhash","vers":"0.4.2","deps":[{"name":"rand_core","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9686ece414ba699a0d1fb9fe956337ab6b146dbfdcd76ac39fb973ff2e96f054","features":{},"yanked":false,"links":null}
+{"name":"wyhash","vers":"0.5.0","deps":[{"name":"rand_core","req":"^0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"baf6e163c25e3fac820b4b453185ea2dea3b6a3e0a721d4d23d75bd33734c295","features":{},"yanked":false,"links":null}

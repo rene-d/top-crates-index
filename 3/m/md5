@@ -1,1 +1,3 @@
+{"name":"md5","vers":"0.3.8","deps":[],"cksum":"79c56d6a0b07f9e19282511c83fc5b086364cbae4ba8c7d5f190c3d9b0425a48","features":{},"yanked":false,"links":null}
+{"name":"md5","vers":"0.6.1","deps":[],"cksum":"7e6bcd6433cff03a4bfc3d9834d504467db1f1cf6d0ea765d37d330249ed629d","features":{},"yanked":false,"links":null}
 {"name":"md5","vers":"0.7.0","deps":[],"cksum":"490cc448043f947bae3cbee9c203358d62dbee0db12107a74be5c30ccfd09771","features":{"default":["std"],"std":[]},"yanked":false,"links":null}

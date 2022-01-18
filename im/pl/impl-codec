@@ -1,0 +1,1 @@
+{"name":"impl-codec","vers":"0.5.1","deps":[{"name":"parity-scale-codec","req":"^2.2.0","features":["max-encoded-len"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"161ebdfec3c8e3b52bf61c4f3550a1eea4f9579d10dc1b936f3171ebdcd6c443","features":{"default":["std"],"std":["parity-scale-codec/std"]},"yanked":false,"links":null}

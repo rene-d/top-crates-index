@@ -1,0 +1,1 @@
+{"name":"temptree","vers":"0.2.0","deps":[{"name":"tempfile","req":"^3.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8fda94d8251b40088cb769576f436da19ac1d1ae792c97d0afe1cadc890c8630","features":{},"yanked":false,"links":null}

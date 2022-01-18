@@ -1,1 +1,2 @@
 {"name":"rustdoc-stripper","vers":"0.1.5","deps":[{"name":"tempdir","req":"^0.3.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"4c492e04b18b0d763d0bae9b1b292c74d5b576f4ba79be164a298b5991a1a93d","features":{},"yanked":false}
+{"name":"rustdoc-stripper","vers":"0.1.13","deps":[{"name":"tempfile","req":"^3.0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"ac2a30263b0285a32ea4bf57c74c925789067f852acc533ed6bbd224c9515921","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"expectest","vers":"0.12.0","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"78817c0b64aab8153fbd7532339fbac1a54e43c715802715a288163ca6024978","features":{"nightly":[]},"yanked":false,"links":null}

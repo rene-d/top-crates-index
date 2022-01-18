@@ -1,0 +1,1 @@
+{"name":"civet-sys","vers":"0.3.0","deps":[{"name":"cc","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"876910de2615a24211fee8b88e62e2d5f81183ef1af2d827df4471c20319c4a2","features":{},"yanked":false,"links":"civet"}

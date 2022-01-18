@@ -1,0 +1,1 @@
+{"name":"docmatic","vers":"0.1.2","deps":[{"name":"which","req":"^2.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8d58ebceaf539cb79420fb3046da9396e11021c536ae953be6ba5363842da8c3","features":{},"yanked":false,"links":null}

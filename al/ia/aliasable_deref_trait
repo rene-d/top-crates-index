@@ -1,0 +1,1 @@
+{"name":"aliasable_deref_trait","vers":"0.2.1","deps":[],"cksum":"ab4b104ec50ee182c641f83f7354fd689ef7d1e456febc02a05d26d0bac67f29","features":{"std":[],"alloc":[],"default":["std"]},"yanked":false,"links":null}

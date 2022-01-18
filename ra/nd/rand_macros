@@ -1,0 +1,1 @@
+{"name":"rand_macros","vers":"0.1.10","deps":[{"name":"rand","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"7f820b8fee5e959fa943d03efd40af63c4fbdaf88e4746ebaae646c257a2f6b1","features":{},"yanked":false}

@@ -1,0 +1,1 @@
+{"name":"testing_logger","vers":"0.1.1","deps":[{"name":"log","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6d92b727cb45d33ae956f7f46b966b25f1bc712092aeef9dba5ac798fc89f720","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"timerfd","vers":"1.1.1","deps":[{"name":"libc","req":"^0.2.31","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0123bba5b202eb298259401ae5611d3a34e852f1d9b6963bbf266b344355a93d","features":{},"yanked":false,"links":null}

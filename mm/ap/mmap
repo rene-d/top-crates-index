@@ -1,0 +1,1 @@
+{"name":"mmap","vers":"0.1.1","deps":[{"name":"libc","req":"^0.1.6","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempdir","req":"^0.3","features":[""],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0bc85448a6006dd2ba26a385a564a8a0f1f2c7e78c70f1a70b2e0f4af286b823","features":{},"yanked":false}

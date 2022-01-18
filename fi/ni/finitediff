@@ -1,0 +1,1 @@
+{"name":"finitediff","vers":"0.1.4","deps":[{"name":"ndarray","req":"^0.15.0","features":[],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e29b3f2b07b398985f495a66466e0a1fd105e022c25e1fd7042b60402cba765a","features":{},"yanked":false,"links":null}

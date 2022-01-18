@@ -1,1 +1,2 @@
+{"name":"az","vers":"0.3.1","deps":[],"cksum":"41a6b78289a33e09b00818ca8c90ab17c5dabb6e74f4b29a6de679c0e0886ade","features":{"fail-on-warnings":[]},"yanked":false,"links":null}
 {"name":"az","vers":"1.1.2","deps":[],"cksum":"9d6dff4a1892b54d70af377bf7a17064192e822865791d812957f21e3108c325","features":{"fail-on-warnings":[]},"yanked":false,"links":null}

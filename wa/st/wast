@@ -1,0 +1,1 @@
+{"name":"wast","vers":"15.0.0","deps":[{"name":"leb128","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a10df5277f68adee65bba117b40235f07a4cb3d59e5ec9aa86dbee180fb1bc04","features":{"wasm-module":[],"default":["wasm-module"]},"yanked":false,"links":null}

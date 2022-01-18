@@ -1,0 +1,1 @@
+{"name":"sid","vers":"0.6.1","deps":[{"name":"num-traits","req":"^0.2","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"bd5ac56c121948b4879bba9e519852c211bcdd8f014efff766441deff0b91bdb","features":{},"yanked":false,"links":null}

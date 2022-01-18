@@ -1,0 +1,1 @@
+{"name":"primal-bit","vers":"0.3.0","deps":[{"name":"hamming","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2837edc85364907810b0ec880f1010dab1a9cc6e75bacb3655c7fd22e125ec1b","features":{"unstable":[]},"yanked":false,"links":null}

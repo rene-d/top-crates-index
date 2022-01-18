@@ -1,0 +1,1 @@
+{"name":"owned_ttf_parser","vers":"0.6.0","deps":[{"name":"ttf-parser","req":"^0.6","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"9f923fb806c46266c02ab4a5b239735c144bdeda724a50ed058e5226f594cde3","features":{"default":["std","ttf-parser/default"],"std":[]},"yanked":false,"links":null}

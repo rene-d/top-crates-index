@@ -1,0 +1,1 @@
+{"name":"clear_on_drop","vers":"0.2.4","deps":[{"name":"cc","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"c9cc5db465b294c3fa986d5bbb0f3017cd850bff6dd6c52f9ccff8b4d21b7b08","features":{"no_cc":[],"nightly":["no_cc"]},"yanked":false,"links":null}

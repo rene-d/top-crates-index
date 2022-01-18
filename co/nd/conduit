@@ -1,0 +1,1 @@
+{"name":"conduit","vers":"0.8.1","deps":[{"name":"semver","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"db0caa30f78c207dc14c071b62512253ece5c4459897815682786aff1028bc82","features":{},"yanked":false}

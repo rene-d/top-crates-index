@@ -1,0 +1,2 @@
+{"name":"libc-print","vers":"0.1.7","deps":[{"name":"libc","req":"^0.2.44","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"f7e52815ed7dd3c2a0e8cc096c1ea26a0be0235db5425c5642ebf2ca136fefba","features":{},"yanked":false,"links":null}
+{"name":"libc-print","vers":"0.1.15","deps":[{"name":"libc","req":"^0.2.81","features":[],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"61b5bfc4709b4337e0083fd169e0e10455840647b8ea59853cb134c4de290dfe","features":{},"yanked":false,"links":null}

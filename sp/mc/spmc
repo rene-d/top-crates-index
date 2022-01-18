@@ -1,0 +1,2 @@
+{"name":"spmc","vers":"0.2.3","deps":[{"name":"loom","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"3cbeab4f891cd634bac542de9b6dad3a9fbdae4e6499e99c256b6d550c930bda","features":{},"yanked":true,"links":null}
+{"name":"spmc","vers":"0.3.0","deps":[{"name":"loom","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"02a8428da277a8e3a15271d79943e80ccc2ef254e78813a166a08d65e4c3ece5","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"try_from","vers":"0.3.2","deps":[{"name":"cfg-if","req":"^0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"283d3b89e1368717881a9d51dad843cc435380d8109c9e47d38780a324698d8b","features":{"no_std":[]},"yanked":false,"links":null}

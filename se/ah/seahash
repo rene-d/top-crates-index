@@ -1,1 +1,2 @@
+{"name":"seahash","vers":"3.0.5","deps":[],"cksum":"e048636bed25842fcdc36e5ad1ec6295b72d4b5b8a4b759b64915a4ce2b9d09d","features":{},"yanked":false}
 {"name":"seahash","vers":"4.0.1","deps":[{"name":"quickcheck","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"39ee459cae272d224928ca09a1df5406da984f263dc544f9f8bde92a8c3dc916","features":{},"yanked":false,"links":null}

@@ -1,0 +1,1 @@
+{"name":"slash-formatter","vers":"3.1.2","deps":[{"name":"concat-with","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8be5f0374e00ae49a7b6883830d98b24df8d5df6f217d546637a3a159c29a201","features":{},"yanked":false,"links":null}

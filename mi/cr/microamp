@@ -1,0 +1,1 @@
+{"name":"microamp","vers":"0.1.0-alpha.2","deps":[{"name":"microamp-macros","req":"^0.1.0-alpha.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa30a609cb456ddb7306b3e65d78e5237056fdec0e8e1a5f0f453e72f16f5ee5","features":{},"yanked":true,"links":null}
