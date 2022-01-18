@@ -1,3 +1,5 @@
+{"name":"bare-metal","vers":"0.1.0","deps":[],"cksum":"19de0ac42f6977d7428858b750131ea9c8166f4ccb7deeab38b6a8656c9798b0","features":{},"yanked":false}
 {"name":"bare-metal","vers":"0.2.0","deps":[],"cksum":"517bf6fd0a06665f8a6d094d3a520f1d0a989c3d114470a75a84a39204e69e96","features":{"const-fn":[]},"yanked":true,"links":null}
+{"name":"bare-metal","vers":"0.2.3","deps":[],"cksum":"1bdcf9294ed648c7cd29b11db06ea244005aeef50ae8f605b1a3af2940bf8f92","features":{"const-fn":[]},"yanked":false,"links":null}
 {"name":"bare-metal","vers":"0.2.4","deps":[{"name":"rustc_version","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"a3caf393d93b2d453e80638d0674597020cef3382ada454faacd43d1a55a735a","features":{"const-fn":[]},"yanked":false,"links":null}
 {"name":"bare-metal","vers":"1.0.0","deps":[],"cksum":"f8fe8f5a8a398345e52358e18ff07cc17a568fbca5c6f73873d3a62056309603","features":{},"yanked":false,"links":null}
