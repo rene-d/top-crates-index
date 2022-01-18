@@ -1,2 +1,1 @@
 {"name":"downcast-rs","vers":"1.0.4","deps":[],"cksum":"f2b92dfd5c2f75260cbf750572f95d387e7ca0ba5e3fbe9e1a33f23025be020f","features":{},"yanked":false,"links":null}
-{"name":"downcast-rs","vers":"1.2.0","deps":[],"cksum":"9ea835d29036a4087793836fa931b08837ad5e957da9e23886b29586fb9b6650","features":{"default":["std"],"std":[]},"yanked":false,"links":null}
