@@ -1,1 +1,2 @@
+{"name":"fallible-iterator","vers":"0.1.6","deps":[],"cksum":"eb7217124812dc5672b7476d0c2d20cfe9f7c0f1ba0904b674a9762a0212f72e","features":{"std":[],"alloc":[],"default":["std"]},"yanked":false,"links":null}
 {"name":"fallible-iterator","vers":"0.2.0","deps":[],"cksum":"4443176a9f2c162692bd3d352d745ef9413eec5782a80d8fd6f8a1ac692a07f7","features":{"default":["std"],"alloc":[],"std":[]},"yanked":false,"links":null}
