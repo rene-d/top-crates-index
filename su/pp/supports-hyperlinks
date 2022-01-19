@@ -1,0 +1,1 @@
+{"name":"supports-hyperlinks","vers":"1.2.0","deps":[{"name":"atty","req":"^0.2.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"590b34f7c5f01ecc9d78dba4b3f445f31df750a67621cf31626f3b7441ce6406","features":{},"yanked":false,"links":null}

@@ -1,1 +1,1 @@
-{"name":"panic-itm","vers":"0.4.1","deps":[{"name":"cortex-m","req":">= 0.5.6, < 0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"98830d17a95587207e41edaa3009b143d326ce134b0e3538ac98246a67d66cc3","features":{},"yanked":false,"links":null}
+{"name":"panic-itm","vers":"0.4.2","deps":[{"name":"cortex-m","req":">=0.5.8, <0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3d577d97d1b31268087b6dddf2470e6794ef5eee87d9dca7fcd0481695391a4c","features":{},"yanked":false,"links":null}

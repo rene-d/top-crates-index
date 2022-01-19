@@ -1,2 +1,1 @@
-{"name":"bytesize","vers":"1.0.1","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"81a18687293a1546b67c246452202bbbf143d239cb43494cc163da14979082da","features":{},"yanked":false,"links":null}
 {"name":"bytesize","vers":"1.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6c58ec36aac5066d5ca17df51b3e70279f5670a72102f5752cb7e7c856adfc70","features":{},"yanked":false,"links":null}

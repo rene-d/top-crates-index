@@ -1,1 +1,1 @@
-{"name":"slug","vers":"0.1.1","deps":[{"name":"unidecode","req":"^0.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"39af1ce888a1253c8b9fcfa36626557650fb487c013620a743262d2769a3e9f3","features":{},"yanked":false}
+{"name":"slug","vers":"0.1.4","deps":[{"name":"deunicode","req":"^0.4.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"b3bc762e6a4b6c6fcaade73e77f9ebc6991b676f88bb2358bddb56560f073373","features":{},"yanked":false,"links":null}

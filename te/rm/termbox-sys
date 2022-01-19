@@ -1,1 +1,1 @@
-{"name":"termbox-sys","vers":"0.2.9","deps":[],"cksum":"10d9d43ebd02bf98d71923b11cb20575aecb877b80793cba9b5e383144db7c36","features":{},"yanked":false}
+{"name":"termbox-sys","vers":"0.2.12","deps":[],"cksum":"625000eb24971280658d44c896a88e7aa252c1f13b4d86c8fc7b87c9f26e7e61","features":{},"yanked":false,"links":"termbox"}

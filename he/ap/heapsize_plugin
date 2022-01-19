@@ -1,2 +1,1 @@
-{"name":"heapsize_plugin","vers":"0.1.0","deps":[],"cksum":"eeec940cff092f6108b3d5a21ef31495b4ea36e7fcfb444f602b960562ba1648","features":{},"yanked":false}
-{"name":"heapsize_plugin","vers":"0.1.2","deps":[],"cksum":"3b4dfa485e936784044f1b8d45570d83f1444321d712ca51d86e5cd96a2f2966","features":{},"yanked":false}
+{"name":"heapsize_plugin","vers":"0.1.6","deps":[{"name":"heapsize","req":"^0.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"c9a70a1ef0122b54e0553f1d960b686c40d33a7953bc63029509a7649c8ee2c4","features":{},"yanked":false}

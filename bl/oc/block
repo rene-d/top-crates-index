@@ -1,2 +1,1 @@
-{"name":"block","vers":"0.1.5","deps":[{"name":"objc_test_utils","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"dc2e9a97275db3739af03d37eb112c5cbbd57ac4bb78f129a4031d00bd71fd97","features":{},"yanked":false}
 {"name":"block","vers":"0.1.6","deps":[{"name":"objc_test_utils","req":"^0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0d8c1fef690941d3e7788d328517591fecc684c084084702d6ff1641e993699a","features":{},"yanked":false}
