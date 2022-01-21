@@ -1,2 +1,1 @@
 {"name":"downcast","vers":"0.10.0","deps":[],"cksum":"4bb454f0228b18c7f4c3b0ebbee346ed9c52e7443b0999cd543ff3571205701d","features":{"nightly":[],"std":[],"default":["std"]},"yanked":false,"links":null}
-{"name":"downcast","vers":"0.11.0","deps":[],"cksum":"1435fa1053d8b2fbbe9be7e97eca7f33d37b28409959813daefc1446a14247f1","features":{"default":["std"],"std":[],"nightly":[]},"yanked":false,"links":null}
